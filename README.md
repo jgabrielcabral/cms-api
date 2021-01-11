@@ -52,4 +52,4 @@ php artisan migrate --seed
 ```
 php artisan serve
 ```
-* Utilizar as rotas conforme definido no [desafio] (https://bitbucket.org/plantaoativo/pa-desafio-back-end/src/master/)
+* Utilizar as rotas conforme definido no [desafio](https://bitbucket.org/plantaoativo/pa-desafio-back-end/src/master/)
