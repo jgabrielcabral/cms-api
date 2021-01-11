@@ -52,4 +52,4 @@ php artisan migrate --seed
 ```
 php artisan serve
 ```
-* Utilizar as rotas conforme definido no desafio http://127.0.0.1:8000/api
+* Utilizar as rotas conforme definido no [desafio] (https://bitbucket.org/plantaoativo/pa-desafio-back-end/src/master/)
